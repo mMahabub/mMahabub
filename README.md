@@ -52,12 +52,12 @@ I'm a **Senior Full Stack Developer** based in **Queens, NY** with **9+ years** 
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [Finmate](https://github.com/mMahabub/finmate) | Personal finance management app | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [Xpenza](https://github.com/mMahabub/xpenza) | Expense tracking application | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) |
 | [Complete-Ecommerce](https://github.com/mMahabub/Complete-Ecommerce) | Full-featured e-commerce platform | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) |
 | [weather-app](https://github.com/mMahabub/weather-app) | Real-time weather application | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | [Libas](https://github.com/mMahabub/Libas) | Fashion e-commerce storefront | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [CalorieCal](https://github.com/mMahabub/CalorieCal) | Calorie tracking calculator | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [CudeProject](https://github.com/mMahabub/CudeProject) | CRUD operations project | ![Code](https://img.shields.io/badge/Code-333333?style=flat-square&logo=github&logoColor=white) |
-| [assessmentApp](https://github.com/mMahabub/assessmentApp) | Assessment application | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
